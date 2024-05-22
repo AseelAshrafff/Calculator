@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .btn{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: none;
+        background-color:darkgray;
+        color: white;
+        margin-top: 20px;
+        font-size: 3rem;
+        justify-items: center;
+    }
+    #equal{
+    background-color: seagreen;
+    }
+    /* input{
+    width: 27%;
+    height: 70px;
+    font-size: 5rem;
+    text-align: left;
+    } */
+    #clear{
+    background-color:rgba(218, 7, 7, 0.966);
+    }
+    #display{
+    width: 80%;
+    padding: 30px;
+    text-align: left;
+    font-size:2rem ;
+    font-weight: bold;
+    }
+    #calculator{
+    max-width: 500px;
+    overflow: hidden;
+    }
